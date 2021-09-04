@@ -1,4 +1,4 @@
-![navigation bar drop down menu (2)](https://user-images.githubusercontent.com/53148716/131639131-712c0dc2-6853-4670-bc1d-878a1a1e1bd8.png)
+![Copy of navigation bar drop down menu](https://user-images.githubusercontent.com/53148716/132088143-12153124-ad3c-477f-a09f-1891e48a02e3.png)
 
 How to build a amazing and modern navigation bar with drop down menu for your website .
 
